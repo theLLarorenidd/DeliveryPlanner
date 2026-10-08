@@ -1,0 +1,5 @@
+# Never commit OMS dumps – they contain customer PII
+*.xlsx
+*.xls
+*.csv
+.vercel
